@@ -1,0 +1,28 @@
+#one	
+{
+	color:black;
+	width:100%;
+	border-collapse:collapse;
+	font-family:Sans_serif;
+}
+th
+{
+	Padding-top:20px;
+	Padding-bottom:20px;
+	background-color:#b22222;
+	border:2px Solid grey;
+	color:white;
+	text-align:left;
+}
+td{
+	padding:8px;
+	border:2px Solid grey;
+  }
+tr:nth-child(even)
+{
+ 	background-color:#f2f2f2;
+}
+tr:hover
+{
+	background-color:burlywood;
+}
